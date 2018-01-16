@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="jxlsdemo"
+  id="myeclipse.1515982794696"
+  context-root="/jxlsdemo"
+  j2ee-spec="1.7"
+  archive="jxlsdemo.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebContent" />
+  </attributes>
+</project-module>
+
